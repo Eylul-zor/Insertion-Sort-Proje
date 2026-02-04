@@ -24,7 +24,7 @@ Worst case: Aradığımız sayının sonda olması<br>
 Best case: Aradığımız sayının dizinin en başında olması.<br>
 
 Dizi sıralandıktan sonra 18 sayısı ortalarda kaldığı için average case kapsamına girer.<br>
-
+Çözüm:<br>
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.<br>
 1. [2,3,5,8,7,9,4,15,6]<br>
 2. [2,3,5,8,7,9,4,15,6]<br>
